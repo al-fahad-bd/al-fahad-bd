@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/a_al_fahad_007" target="blank"><img src="https://img.shields.io/twitter/follow/a_al_fahad_007?logo=twitter&style=for-the-badge" alt="a_al_fahad_007" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/FahadKhan007/Github-Profile-Design-Tools/blob/main/Github%20Gifs/giphy.gif?raw=true">
 
 - 🔭 I’m currently working on **Blockchain**
 
