@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadkhan007" alt="fahadkhan007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/a_al_fahad_007" target="blank"><img src="https://img.shields.io/twitter/follow/a_al_fahad_007?logo=twitter&style=for-the-badge" alt="a_al_fahad_007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/A_al_fahad007" target="blank"><img src="https://img.shields.io/twitter/follow/A_al_fahad007?logo=twitter&style=for-the-badge" alt="A_al_fahad007" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/FahadKhan007/Github-Profile-Design-Tools/blob/main/Github%20Gifs/giphy.gif?raw=true">
 
