@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadkhan007" alt="fahadkhan007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/A_al_fahad007" target="blank"><img src="https://img.shields.io/twitter/follow/A_al_fahad007?logo=twitter&style=for-the-badge" alt="A_al_fahad007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/a_al_fahad007" target="blank"><img src="https://img.shields.io/twitter/follow/a_al_fahad007?logo=twitter&style=for-the-badge" alt="a_al_fahad007" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/FahadKhan007/Github-Profile-Design-Tools/blob/main/Github%20Gifs/giphy.gif?raw=true">
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/a_al_fahad_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_al_fahad_007" height="30" width="40" /></a>
+<a href="https://twitter.com/a_al_fahad007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_al_fahad007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/a-a-fahad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al fahad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17717985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17717985" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/fahad007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fahad007" height="30" width="40" /></a>
