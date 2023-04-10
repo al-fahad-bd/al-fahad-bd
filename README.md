@@ -4,13 +4,13 @@
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadkhan007&label=Profile%20views&color=0e75b6&style=flat" alt="fahadkhan007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfa-99&label=Profile%20views&color=0e75b6&style=flat" alt="alfa-99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadkhan007" alt="fahadkhan007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfa-99" alt="alfa-99" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/a_al_fahad007" target="blank"><img src="https://img.shields.io/twitter/follow/a_al_fahad007?logo=twitter&style=for-the-badge" alt="a_al_fahad007" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/FahadKhan007/Github-Profile-Design-Tools/blob/main/Github%20Gifs/giphy.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/alfa-99/Github-Profile-Design-Tools/blob/main/Github%20Gifs/giphy.gif?raw=true">
 
 - 🔭 I’m currently working on **Application Development**
 
@@ -58,7 +58,7 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadkhan007&show_icons=true&locale=en&layout=compact" alt="fahadkhan007" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfa-99&show_icons=true&locale=en&layout=compact" alt="alfa-99" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadkhan007&show_icons=true&locale=en" alt="fahadkhan007" /></p>
