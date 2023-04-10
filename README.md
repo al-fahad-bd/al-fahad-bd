@@ -61,6 +61,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfa-99&show_icons=true&locale=en&layout=compact" alt="alfa-99" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadkhan007&show_icons=true&locale=en" alt="fahadkhan007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfa-99&show_icons=true&locale=en" alt="alfa-99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkhan007&" alt="fahadkhan007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfa-99&" alt="alfa-99" /></p>
