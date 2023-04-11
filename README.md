@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/alfa-99/Github-Profile-Design-Tools/blob/main/Banner%20Design/Github%20Banner.png?raw=true)](https://stackoverflow.com/users/17717985/abdullah-al-fahad)
+[![MasterHead](https://github.com/al-fahad-bd/Github-Profile-Design-Tools/blob/main/Banner%20Design/Github%20Banner.png?raw=true)](https://stackoverflow.com/users/17717985/abdullah-al-fahad)
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Fahad</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfa-99&label=Profile%20views&color=0e75b6&style=flat" alt="alfa-99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfa-99" alt="alfa-99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-fahad-bd" alt="al-fahad-bd" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/a_al_fahad007" target="blank"><img src="https://img.shields.io/twitter/follow/a_al_fahad007?logo=twitter&style=for-the-badge" alt="a_al_fahad007" /></a> </p>
 
@@ -58,9 +58,9 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfa-99&show_icons=true&locale=en&layout=compact" alt="alfa-99" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-fahad-bd&show_icons=true&locale=en&layout=compact" alt="al-fahad-bd" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfa-99&show_icons=true&locale=en" alt="alfa-99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=al-fahad-bd&show_icons=true&locale=en" alt="al-fahad-bd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfa-99&" alt="alfa-99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-fahad-bd&" alt="al-fahad-bd" /></p>
