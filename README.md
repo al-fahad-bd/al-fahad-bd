@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Artificial Inteligence**
 
-- 💬 Ask me about **Android, IOS, Cross Platform Development, Mobile and Web Apps**
+- 💬 Ask me about **Android, IOS and Cross Platform Development**
 
 - 📫 How to reach me **fahad.bauet@gmail.com**
 
