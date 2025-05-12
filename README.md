@@ -12,15 +12,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/alfa-99/Github-Profile-Design-Tools/blob/main/Github%20Gifs/giphy.gif?raw=true">
 
-- 🔭 I’m currently working on **Application Development**
+- 🔭 I’m currently working on **Mobile App Development**
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **Blockchain and Artificial Inteligence**
 
-- 💬 Ask me about **Android, Cross Platform Development, Mobile and Web Apps**
+- 💬 Ask me about **Android, IOS, Cross Platform Development, Mobile and Web Apps**
 
 - 📫 How to reach me **fahad.bauet@gmail.com**
 
-- ⚡ Fun fact **I think I love to develop Apps**
+- ⚡ Fun fact **I’m a hardcore tech geek!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
